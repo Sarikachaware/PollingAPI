@@ -16,7 +16,6 @@
   <li> NodeJs </li>
   <li> ExpressJs </li>
   <li> MongoDB </li>
-  <li> PassportJs </li>
-  <li> Mongoose ODM </li>
+  
 </ul>
 
